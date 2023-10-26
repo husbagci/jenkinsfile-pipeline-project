@@ -1,1 +1,1 @@
-print('My first python job geriden geldim ama basardım.')
+print('My first python job with jenkins.')
